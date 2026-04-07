@@ -10,6 +10,8 @@ Contents
 
 .. toctree::
 
+   setup/requirements
+   setup/installation
    usage
    api
 
