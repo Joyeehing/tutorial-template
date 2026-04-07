@@ -1,17 +1,9 @@
 Welcome to SetAP Team 4C's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Thryft** is a Flutter application for buying and selling second-hand clothing, designed for users who want a simple and user-friendly way to pre-owned items.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+It allows users to crate listings, browse available clothing, and interact with others within an organised marketplace.
 
 Contents
 --------
@@ -20,3 +12,9 @@ Contents
 
    usage
    api
+
+.. note::
+
+   This project is under active development.
+
+
