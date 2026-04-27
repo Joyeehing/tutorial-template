@@ -12,8 +12,7 @@ Contents
 
    setup/requirements
    setup/installation
-   usage
-   api
+   VCS
 
 .. note::
 
