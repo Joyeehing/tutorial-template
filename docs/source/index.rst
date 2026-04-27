@@ -12,7 +12,7 @@ Contents
 
    setup/requirements
    setup/installation
-   VCS
+   vcs
 
 .. note::
 
