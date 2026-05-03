@@ -13,6 +13,7 @@ Contents
    setup/requirements
    setup/installation
    vcs
+   Usage/def
 
 .. note::
 
