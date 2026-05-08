@@ -18,3 +18,15 @@ The user selects the search bar, enters a keyword related to the item they are l
     :width: 600px
     :align: center
     :alt: Image of the project page
+When the user presses Enter, the system redirects them to a results page displaying listings that match the entered keyword.
+
+.. image:: ../images/req1/sec1/image4.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
+The user can use filters such as size, condition, and price to narrow down the search results; for example, if the user selects size “S”, the system will only display listings that match the selected size.
+
+.. image:: ../images/req1/sec1/image5.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
