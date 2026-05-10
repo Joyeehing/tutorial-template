@@ -30,3 +30,15 @@ The user can use filters such as size, condition, and price to narrow down the s
     :width: 600px
     :align: center
     :alt: Image of the project page
+
+User should be able to use the filter system
+--------------------------------
+.. image:: ../images/req1/sec2/image6.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
+
+.. image:: ../images/req1/sec2/image7.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
