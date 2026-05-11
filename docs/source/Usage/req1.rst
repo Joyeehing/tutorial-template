@@ -42,3 +42,10 @@ User should be able to use the filter system
     :width: 600px
     :align: center
     :alt: Image of the project page
+The user opens the marketplace page and selects the filter option to refine the available listings. They can choose one or more filter categories, such as department, size, brand, price range, colour, condition, material, or item type. For example, if the user selects size “S”, the system will only display listings that match the selected size.
+
+.. image:: ../images/req1/sec2/image8.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
+If the user does not wish to refine any categories, they can simply click “Apply”, and the system will display all available listings.
