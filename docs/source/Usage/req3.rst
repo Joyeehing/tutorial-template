@@ -12,7 +12,7 @@ User should be able to create listings
     :align: center
     :alt: Image of the project page
 
-	The user logs in to their account and selects the “Create Listing” option either through the “Sell Now” button on the marketplace page or from the account section. Within the account section, users can choose either the black “Create Listing” button or the blue “Create Listing” button to open the listing creation form, where they can upload an image and enter item details before submitting the listing.
+The user logs in to their account and selects the “Create Listing” option either through the “Sell Now” button on the marketplace page or from the account section. Within the account section, users can choose either the black “Create Listing” button or the blue “Create Listing” button to open the listing creation form, where they can upload an image and enter item details before submitting the listing.
 
 .. image:: ../images/req3/sec1/image3.png
     :width: 600px
