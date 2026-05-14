@@ -32,3 +32,10 @@ Within the account section, users can choose either the black “Create Listing�
     :alt: Image of the project page
 
 The system then opens the listing creation form, where the user can upload an image and enter item details such as the product name, category, size, condition, price, colour, material, and description before submitting the listing. Once the input has been validated successfully, the listing is saved to the system, displayed in the marketplace, and can later be managed through the user’s account section.
+
+.. image:: ../images/req3/sec1/image6.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
+
+Before creating a listing, the user must first add a payment method through the profile settings section. If no payment method has been added, the system will prevent the user from creating a listing until valid payment information has been provided.
