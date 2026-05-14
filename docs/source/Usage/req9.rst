@@ -7,6 +7,12 @@ User should be able to receive notifications
     :align: center
     :alt: Image of the project page
 
+.. image:: ../images/req7/image6.png
+    :width: 600px
+    :align: center
+    :alt: Image of the project page
+At the same time, the seller will receive a notification about the new offer and can either accept or decline it through the notifications page, after which the buyer will receive a notification showing the seller’s decision.
+
 .. image:: ../images/req7/image7.png
     :width: 600px
     :align: center
